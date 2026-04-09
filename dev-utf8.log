@@ -1,0 +1,37 @@
+﻿Γû▓ Next.js 16.2.3 (Turbopack)
+- Local:         http://localhost:3005
+- Network:       http://192.168.1.17:3005
+- Environments: .env.local
+Γ£ô Ready in 717ms
+node.exe : Γ¿» Another next 
+dev server is already 
+running.
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+    + CategoryInfo           
+   : NotSpecifi    ed: (Γ¿» 
+Another n    ex...lready 
+runnin    g.:String) [], Rem 
+   oteException
+    + FullyQualifiedEr    
+rorId : NativeComm    
+andError
+ 
+
+- Local:        
+http://localhost:3000
+- PID:          29508
+- Dir:          D:\collage 
+chat bot\college-chatbot
+- Log:          .next\dev\log
+s\next-development.log
+
+Run taskkill /PID 29508 /F 
+to stop it.
+[?25h
